@@ -12,16 +12,17 @@ Here I will be detailing the bibliography consulted to achieve the objective as 
 
 
 <h3 align="center">Links consulted</h3>
+<div align="center">
+  <h4>First Week</h4>
 
-
-<a href="https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs">VCS - CVCS vs DVCS</a><br>
-<a href="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/">Benefits of DVCS</a><br>
-<a href="https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html">Common git commands</a><br>
-<a href="https://git-scm.com/book/en/v2/Git-Basics-Tagging">Git tag</a><br>
-<a href="https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag">Git tag - Atlassian</a><br>
-<a href="https://www.google.com/url?q=https://buildatscale.tech/what-is-githook/&sa=D&source=docs&ust=1650931606671524&usg=AOvVaw3OrDapWEOTWX5FdHys9ZVR">Git hook</a><br>
-<a href="https://www.atlassian.com/git/tutorials/git-hooks">Git hook - Atlassian</a>
-<a href="https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase">Git rebase</a><br>
-<a href="https://medium.com/swlh/squash-and-rebase-git-basics-5cb1be1e0dac#:~:text=With%20%E2%80%9Csquash%E2%80%9D%2C%20you%20can,they%27re%20now%20just%201">Git squash</a><br>
-<a href="https://desarrollowp.com/blog/tutoriales/aprende-git-de-manera-sencilla-git-flow/">Gitflow</a><br>
-<a href="https://softwareengineering.stackexchange.com/questions/307360/where-do-bugfixes-go-in-the-git-flow-model">bugfix - gitflow</a><br>
+  |    Card #48   |      Card #57 | Card #47 | Card #38 |
+  |:-------------:|:-------------:|:--------:|:--------:|
+  |<p>Git (branch, tags and commits, stash command and hooks)</p>|<p>Git branching strategies and flows</p>|<p>Git rebase and squash - merge vs rebase</p>|Javascript -  Syntax and Basic Constructs|
+  |<a href="https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs">Version Control System - CVCS vs DVCS</a><br>| <a         href="https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/">Branching strategies</a> |<a href="https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase">Git rebase</a><br> |<a href="https://dev.to/dillionmegida/syntax-and-basic-constructs-65">dev.to - Syntax & basic constructs</a> |
+  |<a href="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/">Benefits of DVCS</a><br>|<a href="https://desarrollowp.com/blog/tutoriales/aprende-git-de-manera-sencilla-git-flow/">Gitflow</a> |<a href="https://www.git-tower.com/learn/git/faq/git-squash">Git squash</a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types">Grammar & Types</a>  |
+  |<a href="https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html">Common git commands</a><br> |<a href="https://www.flagship.io/git-branching-strategies/">Branching strategy and gitflow - flagship</a> |<a href="https://www.edureka.co/blog/git-rebase-vs-merge/#:~:text=Git%20Merge%20Vs%20Git%20Rebase%3A&text=Git%20merge%20is%20a%20command,of%20the%20merging%20of%20commits.">Merge vs. Rebase</a> |
+  |<a href="https://www.atlassian.com/git/tutorials/saving-changes/git-stash">Git stash</a><br> |<a href="https://softwareengineering.stackexchange.com/questions/307360/where-do-bugfixes-go-in-the-git-flow-model">Bugfix - gitflow</a><br> | |
+  |<a href="https://www.atlassian.com/git/tutorials/git-hooks">Git hook</a><br> |  | |
+  |<a href="https://git-scm.com/book/en/v2/Git-Basics-Tagging">Git tag</a><br>|||
+  |<a href="https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag">Git tag - Atlassian</a><br>|||
+ </div> 
