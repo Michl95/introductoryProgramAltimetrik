@@ -60,6 +60,22 @@ Here I will be detailing the bibliography consulted to achieve the objective as 
   
   <h4>Third Week</h4>
 
+  |    Card #35   |  Card #33 & #36     | Card #50 | Card #37 |Card #34 | Card #39 |
+  |:-------------:|:-------------:|:--------:|:--------:|:-------:|:--------:|
+  |Media Queries - em, rem, px|Positioning / Making layouts / Flexbox & Grid|Bootstrap / Materialize CSS|What are css preprocessors / SASS|OOCSS- BEM - SMACSS|Fetch API / Ajax (XHR)|
+  |<a href="https://css-tricks.com/a-complete-guide-to-css-media-queries/">Media Queries</a>|<a href="https://www.geeksforgeeks.org/css-positioning-elements/">Positioning Elements</a>|<a href="https://www.hostinger.com/tutorials/what-is-bootstrap/?msclkid=bfabc75bcd9e11ec98cafaa6d3fe53f7">Bootstrap</a>|<a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor">Preprocessors</a>|<a href="https://www.keycdn.com/blog/oocss?msclkid=a1bfdc65ce7a11ec8fb648640ce3d3df">OOCSS</a>|<a href="https://rapidapi.com/blog/api-glossary/http-request-methods/?msclkid=212ec943cf2811ec853ddf181a15eae5">HTTP request</a>|
+  |<a href="https://codingnconcepts.com/css/font-size-units-px-em-and-rem/#:~:text=The%20em%20and%20rem%20are%20the%20relative%20%28or,Say%2C%20if%20browser%E2%80%99s%20default%20font-size%20is%2016px%2C%20then">Units: rem, em, px<a/>|<a href="https://www.geeksforgeeks.org/css-website-layout/">Layouts</a>|<a href="https://github.com/materializecss/materialize">Materializa</a>|<a href="https://pineco.de/the-simplest-sass-compile-setup/#:~:text=Sass%20comes%20with%20a%20command-line%20interface%20%28CLI%29%2C%20which,two%20deprecated%20packages%20named%20LibSass%20and%20Node%20Sass.?msclkid=2cbecdd8ce6411ec9e3dad119af9cab5">SASS</a>|<a href="https://css-tricks.com/bem-101/?msclkid=b66bacccce7a11ec9fed82a7d05b9ae8">BEM</a>|<a href="https://www.javascripttutorial.net/javascript-fetch-api/#:~:text=The%20Fetch%20API%20is%20a%20modern%20interface%20that,the%20Fetch%20API%20is%20much%20simpler%20and%20cleaner.?msclkid=59ed230fcf7d11ecbb5698ff006e49f1">Fetch API</a>|
+  |               |<a href="https://www.youtube.com/watch?v=P6UgYq3J3Qs&t=74s">Relative - Absolute</a>|<a href="https://materializecss.com/?msclkid=a3e586c5cd9f11ec92b6492297423ac5">Materialize Documentation</a>|<a href="https://sass-lang.com/guide?msclkid=7883cf7dce6a11ec9e55299b2e7b8830">SASS slang</a>|<a href="http://smacss.com/book/">SMACSS</a>|<a href="https://javascript.plainenglish.io/all-you-need-to-know-about-the-fetch-api-6929930572a8">More about Fetch API</a>|
+  |               |<a href="https://www.lambdatest.com/blog/css-position-sticky-tutorial/">Sticky</a>|          |          |         |<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">AJAX</a>|
+  |               |<a href="https://torquemag.io/2020/02/flexbox-tutorial/">Complete guide to Flexbox</a>|          |          |         |          |        
+  |               |<a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Complete guide to Grid</a>|          |          |         |          |
+
+</div> 
+
+<div align="center">
+  
+  <h4>Fourth Week</h4>
+
   |    Card ###   |  Card ###     | Card ### | Card ### |Card ### | Card ### |
   |:-------------:|:-------------:|:--------:|:--------:|:-------:|:--------:|
   |               |               |          |          |         |          |
@@ -72,4 +88,22 @@ Here I will be detailing the bibliography consulted to achieve the objective as 
   |               |               |          |          |         |          |
 
 </div> 
+<div align="center">
+  
+  <h4>Fifth Week</h4>
+
+  |    Card ###   |  Card ###     | Card ### | Card ### |Card ### | Card ### |
+  |:-------------:|:-------------:|:--------:|:--------:|:-------:|:--------:|
+  |               |               |          |          |         |          |
+  |               |               |          |          |         |          |
+  |               |               |          |          |         |          |
+  |               |               |          |          |         |          |
+  |               |               |          |          |         |          |
+  |               |               |          |          |         |          |        
+  |               |               |          |          |         |          |
+  |               |               |          |          |         |          |
+
+</div> 
+
+
  
