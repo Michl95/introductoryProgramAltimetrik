@@ -76,16 +76,14 @@ Here I will be detailing the bibliography consulted to achieve the objective as 
   
   <h4>Fourth Week</h4>
 
-  |    Card ###   |  Card ###     | Card ### | Card ### |Card ### | Card ### |
+  |    Card #58   |  Card #8     | Card #24 & #56 | Card #12 & #10 |Card #52 | Card #42 |
   |:-------------:|:-------------:|:--------:|:--------:|:-------:|:--------:|
-  |               |               |          |          |         |          |
-  |               |               |          |          |         |          |
-  |               |               |          |          |         |          |
-  |               |               |          |          |         |          |
-  |               |               |          |          |         |          |
-  |               |               |          |          |         |          |        
-  |               |               |          |          |         |          |
-  |               |               |          |          |         |          |
+  |Cookies / localStorage / sessionStorage|HTTP'S methods / Response Codes / Session Management|HTTPS / HTTP/2 - HTTP/3|CORS / JSONP /JSON Web Token|SSO / OAuth 2.0|Events / Event bubbling|
+  |<a href="https://www.kaspersky.com/resource-center/definitions/cookies?msclkid=66d606c0d0c411eca5ddd508cc7038d8">Cookies</a>|<a href="https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them">HTTP's methods</a>|<a href="https://www.tutorialsteacher.com/https/what-is-https">HTTPS</a>|<a href="https://www.educative.io/blog/getting-started-cors">CORS</a>|<a href="https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on">SSO</a>|<a href="https://www.javascripttutorial.net/javascript-dom/javascript-events/">Events</a>|
+  |<a href="https://windowsreport.com/browser-local-storage/?msclkid=011c11aad16e11ec9d9401a6b52caa1c"> Complete guie to Local Storage</a>|<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status">Response Codes</a>|<a href="https://www.howtogeek.com/181767/htg-explains-what-is-https-and-why-should-i-care/">HTTPS why should I care?</a>|<a href="https://www.freecodecamp.org/news/use-jsonp-and-other-alternatives-to-bypass-the-same-origin-policy-17114a5f2016/">JSONP</a>|<a href="https://auth0.com/intro-to-iam/what-is-oauth-2/">OAuth 2.0</a>|<a href="https://www.upgrad.com/blog/event-bubbling-event-capturing-javascript/#:~:text=Event%20Capturing%20in%20JavaScript%20Event%20Capturing%20is%20an,most%20deeply%20nested%20element%20receives%20the%20event%20last.">Event flow</a>|
+  |<a href="https://medium.com/swlh/cookies-vs-localstorage-whats-the-difference-d99f0eb09b44">Cookies vs localStorage</a>|<a href="https://www.geeksforgeeks.org/session-management-in-http/">Session Management</a>|<a href="https://www.lifewire.com/what-do-http-and-https-stand-for-3482375">HTTP and HTTPS</a>|<a href="https://medium.com/analytics-vidhya/jwt-jason-web-token-f101daad2779">JSON Web Token</a>|<a href="https://stfalcon.com/en/blog/post/oauth-2.0">OAuth Basic Understanding</a>|          |
+  |<a href="https://javascript.info/localstorage">Session Storage</a>|<a href="https://www.youtube.com/watch?v=GhrvZ5nUWNg">Session and Tokens</a>|<a href="https://www.cloudflare.com/en-gb/learning/performance/http2-vs-http1.1/">HTTP/2</a>|          |         |          |
+  |               |               |<a href="https://www.ionos.com/digitalguide/hosting/technical-matters/http3-explained/">HTTP/3</a>|          |         |          | 
 
 </div> 
 <div align="center">
